@@ -1,0 +1,313 @@
+2023-02-16 23:40:66 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:40:10 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:40:60 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:40:60 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:40:49 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:40:49 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:40:17 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-16 23:40:18 - [31merror[39m: [31mErro: MongoServerError: bad auth : authentication failed[39m
+2023-02-16 23:40:18 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:41:69 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:41:70 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:41:66 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:41:67 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:41:65 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:41:66 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:41:76 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-16 23:42:07 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:42:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:42:64 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:42:64 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:48:05 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:48:05 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:49:51 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:49:51 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:49:03 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:49:03 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:49:20 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:49:20 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:49:34 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:49:34 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:50:28 - [35mhttp[39m: [35mGET /api/test : status: 12 - 1.703 ms[39m
+[35m[39m
+2023-02-16 23:50:30 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:50:30 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:50:33 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:50:34 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:50:44 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:50:45 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:51:43 - [35mhttp[39m: [35mGET /api/test : status: 12 - 1.739 ms[39m
+[35m[39m
+2023-02-16 23:51:24 - [35mhttp[39m: [35mGET /api/test : status: 12 - 0.335 ms[39m
+[35m[39m
+2023-02-16 23:57:77 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:57:77 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:57:51 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:57:51 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:57:52 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:57:52 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:58:13 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 1.698 ms[39m
+[35m[39m
+2023-02-16 23:59:20 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:59:20 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:59:48 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:59:48 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-16 23:59:92 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-16 23:59:92 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:01:20 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 4.947 ms[39m
+[35m[39m
+2023-02-17 00:01:75 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:01:75 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:01:55 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:01:55 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:01:15 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:01:15 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:38 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:38 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:62 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:63 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:22 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:22 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:50 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:50 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:51 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:51 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:17 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:17 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:11 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:12 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:02:00 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:02:01 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:66 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:67 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:36 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:37 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:76 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:76 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:44 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:44 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:89 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:89 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:31 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:31 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:48 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:49 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:03:31 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:03:31 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:04:71 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:04:71 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:04:80 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:04:81 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:04:82 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:04:82 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:04:05 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:04:05 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:04:71 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:04:71 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:05:81 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:05:81 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:05:39 - [31merror[39m: [31mErro no sistema : user is not allowed to do action [insert] on [test.movies][39m
+2023-02-17 00:05:39 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 160.643 ms[39m
+[35m[39m
+2023-02-17 00:08:65 - [31merror[39m: [31mErro no sistema : user is not allowed to do action [insert] on [test.movies][39m
+2023-02-17 00:08:65 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 151.380 ms[39m
+[35m[39m
+2023-02-17 00:11:87 - [31merror[39m: [31mErro no sistema : user is not allowed to do action [insert] on [test.movies][39m
+2023-02-17 00:11:87 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 2650.109 ms[39m
+[35m[39m
+2023-02-17 00:12:90 - [31merror[39m: [31mErro no sistema : user is not allowed to do action [insert] on [test.movies][39m
+2023-02-17 00:12:90 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 891.056 ms[39m
+[35m[39m
+2023-02-17 00:12:90 - [31merror[39m: [31mErro no sistema : user is not allowed to do action [insert] on [test.movies][39m
+2023-02-17 00:12:91 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 691.081 ms[39m
+[35m[39m
+2023-02-17 00:12:92 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:12:92 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:13:92 - [31merror[39m: [31mErro no sistema : user is not allowed to do action [insert] on [test.movies][39m
+2023-02-17 00:13:92 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 7513.090 ms[39m
+[35m[39m
+2023-02-17 00:13:94 - [31merror[39m: [31mErro no sistema : user is not allowed to do action [insert] on [test.movies][39m
+2023-02-17 00:13:95 - [35mhttp[39m: [35mPOST /api/movie : status: 7 - 352.367 ms[39m
+[35m[39m
+2023-02-17 00:15:02 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 00:15:02 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 00:28:50 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:28:08 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:28:32 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:28:42 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:28:62 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:42 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:18 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:06 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:68 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:64 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:72 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:76 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:34:46 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:35:14 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:35:29 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:35:22 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:42 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:53 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:75 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:84 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:21 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:49 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:50 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:36:95 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:71 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:19 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:97 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:97 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:82 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:42 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:88 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:37:22 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:38:12 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:38:28 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:38:93 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:38:52 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:38:41 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:39:70 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:39:74 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:39:78 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:39:96 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:40:57 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:40:20 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:40:98 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:40:91 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:40:66 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:41:58 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:41:50 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:87 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:89 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:67 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:04 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:87 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:27 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:84 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:23 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:07 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:19 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:42:85 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:29 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:53 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:41 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:98 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:94 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:83 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:84 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:84 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:43:01 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:46:66 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:46:25 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:46:17 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:46:23 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:46:00 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:46:09 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:47:42 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:47:06 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:47:80 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:48:43 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:48:54 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:48:21 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:52:26 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:53:52 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:53:77 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:53:23 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:03 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:84 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:30 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:41 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:46 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:97 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:59 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:78 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:54 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:52 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:54:52 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:55:82 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:55:82 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:55:81 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:55:24 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:55:58 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:55:53 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:56:79 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:56:05 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:56:26 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:56:49 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:56:05 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:57:75 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:57:02 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:57:12 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:57:74 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:57:95 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:57:17 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:57:89 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:58:22 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:58:96 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:58:61 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:58:14 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:59:94 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:59:52 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:59:40 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:59:42 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 00:59:78 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:00:08 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:00:55 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:00:66 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:00:85 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:00:60 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:00:88 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:00:13 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:01:41 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:01:02 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:01:93 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:01:31 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:02:82 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:06:02 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:20:44 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:20:49 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:21:30 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:21:18 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:22:05 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 01:22:05 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 01:23:09 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 01:23:09 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 01:24:37 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:24:48 - [31merror[39m: [31mNão foi possível conectar[39m
+2023-02-17 01:24:93 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-02-17 01:24:94 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2023-02-17 01:25:48 - [35mhttp[39m: [35mPOST /api/movie : status: 54 - 5.073 ms[39m
+[35m[39m
+2023-02-17 01:26:49 - [35mhttp[39m: [35mPOST /api/movie : status: 54 - 1.371 ms[39m
+[35m[39m
+2023-02-17 01:26:88 - [35mhttp[39m: [35mPOST /api/movie : status: 54 - 1.283 ms[39m
+[35m[39m
+2023-02-17 01:27:58 - [35mhttp[39m: [35mPOST /api/movie : status: 220 - 29.979 ms[39m
+[35m[39m
+2023-02-17 01:27:64 - [35mhttp[39m: [35mPOST /api/movie : status: 219 - 16.468 ms[39m
+[35m[39m
+2023-02-17 01:27:78 - [35mhttp[39m: [35mPOST /api/movie : status: 70 - 0.519 ms[39m
+[35m[39m
+2023-02-17 01:27:65 - [35mhttp[39m: [35mPOST /api/movie : status: 120 - 0.475 ms[39m
+[35m[39m
+2023-02-17 01:29:27 - [35mhttp[39m: [35mGET /api/movie/63ef023eb2d261f101e9c839 : status: 219 - 13.381 ms[39m
+[35m[39m
+2023-02-17 01:29:63 - [31merror[39m: [31mErro no sistema : Cast to ObjectId failed for value "63ef023eb2d261f101e9c83" (type string) at path "_id" for model "Movie"[39m
+2023-02-17 01:29:63 - [35mhttp[39m: [35mGET /api/movie/63ef023eb2d261f101e9c83 : status: 38 - 1.699 ms[39m
+[35m[39m
+2023-02-17 01:29:18 - [35mhttp[39m: [35mGET /api/movie/63ef023eb2d261f101e9c830 : status: 31 - 9.547 ms[39m
+[35m[39m
+2023-02-17 01:29:03 - [35mhttp[39m: [35mGET /api/movies : status: 149 - 0.868 ms[39m
+[35m[39m
+2023-02-17 01:29:85 - [35mhttp[39m: [35mGET /api/movie : status: 442 - 11.805 ms[39m
+[35m[39m
+2023-02-17 01:30:80 - [35mhttp[39m: [35mDELETE /api/movie/63ef023eb2d261f101e9c839 : status: 27 - 24.378 ms[39m
+[35m[39m
+2023-02-17 01:30:01 - [35mhttp[39m: [35mGET /api/movie : status: 222 - 9.066 ms[39m
+[35m[39m
+2023-02-17 01:31:11 - [35mhttp[39m: [35mPATCH /api/movie/63ef0216b2d261f101e9c837 : status: 249 - 0.508 ms[39m
+[35m[39m
+2023-02-17 01:31:73 - [35mhttp[39m: [35mPATCH /api/movie/63ef0216b2d261f101e9c837 : status: 444 - 29.076 ms[39m
+[35m[39m
